@@ -8,8 +8,12 @@ https://drive.google.com/file/d/1b25SCqWMJvUsDNPIgsr1UrO5jnfhhye_/view?usp=shari
 pip install opencv-python mediapipe
 
 # Ejecutar el programa
-python main.py
+
+python main.py (comando en visual studio code terminal)
+
 o
+
 tambien lo puedes ejecutar 
+
 ![image](https://github.com/user-attachments/assets/c3982249-3303-4c39-aef9-3ee5ba12eb88)
 
